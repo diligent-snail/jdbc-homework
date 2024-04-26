@@ -1,0 +1,4 @@
+= Задание на JDBC
+
+. Реализовать link:src/main/java/ru/hse/jdbctask/PostRepository.java[`PostRepository`]
+. Покрыть тестами реализацию репозитория
